@@ -1,0 +1,26 @@
+.card{
+    margin: 10px 40px;
+}
+.img-container {
+    display: flex;
+    border: 10px solid tomato;
+    padding: 15px;
+}
+
+.description-container {
+    width: 80%;
+    height: 60px;
+    margin-left: 10px;
+    font-size: larger;
+}
+
+
+button {
+    margin-top: 20px;
+    font: size 20px;;
+    background-color: aqua;
+    border-radius: 0px 10px 40px;
+    padding: 5px;
+    position: bottom;
+
+}
